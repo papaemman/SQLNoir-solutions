@@ -1,4 +1,4 @@
-# **🕵️‍♂️ Case #008: Death at Coral Bay Marina**
+# 🕵️‍♂️ Case #003: Death at Coral Bay Marina
 
 * **Date:** August 14, 1986
 * **Location:** Coral Bay Marina

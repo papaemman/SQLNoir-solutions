@@ -1,4 +1,4 @@
-# Case #006: The Silocon Sabotage
+# 🕵️‍♂️ Case #006: The Silocon Sabotage
 
 * **Date:** April 21, 1989
 * **Location:** QuantumTech HQ, Miami
